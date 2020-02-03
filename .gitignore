@@ -109,3 +109,7 @@ venv.bak/
 # ssh keys
 pge_outages_key.pem
 user_public_key.ppk
+
+# ini
+s3_2.ini
+s3_keys.txt
